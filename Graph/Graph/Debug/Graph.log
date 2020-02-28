@@ -1,0 +1,5 @@
+﻿  graph.cpp
+D:\justd\source\repos\Graph\Graph\graph.cpp(129,29): warning C4018: <: несоответствие типов со знаком и без знака
+  menu.cpp
+  Создание кода...
+  Graph.vcxproj -> D:\justd\source\repos\Graph\Debug\Graph.exe
